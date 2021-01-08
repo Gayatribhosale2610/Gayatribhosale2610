@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gayatrivb13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gayatrivb13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gayatribhosale2610" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gayatribhosale2610" height="30" width="40" /></a>
-<a href="https://fb.com/gayatri bhosale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gayatri bhosale" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gayatribhosale2610" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gayatribhosale2610" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/gayatribb2610" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/gayatribb2610" height="30" width="40" /></a>
+<a href="https://twitter.com/Gayatrivb13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gayatrivb13" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gayatri-bhosale-a8186819b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gayatribhosale2610" height="30" width="40" /></a>
+<a href="https://www.facebook.com/gayatri.bhosale.180/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gayatri bhosale" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/gayatri0_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gayatribhosale2610" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gayatribb2610" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/gayatribb2610" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gayatribhosale2610" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gayatribhosale2610" height="30" width="40" /></a>
 </p>
 
