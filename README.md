@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatribhosale2610" alt="gayatribhosale2610" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gayatrivb13" target="blank"><img src="https://img.shields.io/twitter/follow/gayatrivb13?logo=twitter&style=for-the-badge" alt="gayatrivb13" /></a> </p>
+<p align="left"> <a href="https://twitter.com/GB_1020" target="blank"><img src="https://img.shields.io/twitter/follow/GB_1020?logo=twitter&style=for-the-badge" alt="GB_1020" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks,Cloud Computing,Android,Web Development.**
 
